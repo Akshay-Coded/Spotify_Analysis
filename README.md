@@ -1,4 +1,3 @@
-# Spotify_Analysis
 # Spotify Song Analysis
 
 This Streamlit application analyzes your top Spotify tracks and provides insights into various audio features such as danceability, energy, and valence.
