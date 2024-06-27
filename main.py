@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import streamlit as st
 import pandas as pd
 
-CLIENT_ID = '6082233ab1644e5483bfedce9c7850b3'
-CLIENT_SECRET = 'd54efa4ad2dc486cb31d4b3a1dff0c56'
+CLIENT_ID = 'your client id'
+CLIENT_SECRET = 'your client secret'
 REDIRECT_URL = 'http://localhost:5000'
 
 sp = spotipy.Spotify(
