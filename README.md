@@ -35,4 +35,4 @@ To run this project, you need to have the following installed:
 - The app layout and components are created using Streamlit functions.
 - The top 10 tracks and their audio features are fetched and displayed in a bar chart.
 ## Result
-![Spotify Song Analysis]()
+![Spotify Song Analysis](Screenshot.png)
